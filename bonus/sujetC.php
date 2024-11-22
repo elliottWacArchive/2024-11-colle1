@@ -47,4 +47,3 @@ function colle($x, $y)
         echo "\n";
     }
 }
-colle(5, 3);
